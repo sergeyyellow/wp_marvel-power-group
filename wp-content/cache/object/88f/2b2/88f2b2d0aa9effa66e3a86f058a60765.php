@@ -1,1 +1,1 @@
-Mºâ`<?php exit; ?>a:1:{s:7:"content";a:2:{s:19:"bodhi_svgs_settings";b:1;s:33:"bodhi_svgs_admin_notice_dismissed";b:1;}}
+>»â`<?php exit; ?>a:1:{s:7:"content";a:2:{s:19:"bodhi_svgs_settings";b:1;s:33:"bodhi_svgs_admin_notice_dismissed";b:1;}}
